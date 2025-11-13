@@ -4,23 +4,23 @@ This repository contains my solutions for Assignment #1, demonstrating fundament
 
 📚 Assignment Overview
 
-_In this assignment, I learned how to:
+In this assignment, I learned how to:
 
-_Define and call functions in Kotlin
+Define and call functions in Kotlin
 
-_Use for and while loops effectively
+Use for and while loops effectively
 
-_Work with lambda expressions
+Work with lambda expressions
 
-_Implement recursive functions
+Implement recursive functions
 
-_Set up a Kotlin project in IntelliJ IDEA
+Set up a Kotlin project in IntelliJ IDEA
 
-_Configure Gradle with Kotlin
+Configure Gradle with Kotlin
 
-_Manage version control using Git & GitHub
+Manage version control using Git & GitHub
 
-_The assignment includes four core programming tasks plus one optional enhancement.
+The assignment includes four core programming tasks plus one optional enhancement.
 
 🧩 Tasks Implemented
 A) Sum of Integers (1 → max)
