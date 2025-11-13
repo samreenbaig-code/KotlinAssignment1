@@ -1,51 +1,51 @@
-📘 Kotlin Assignment 1
+# 📘 Kotlin Assignment 1
 
 This repository contains my solutions for Assignment #1, demonstrating fundamental Kotlin programming concepts such as functions, loops, recursion, and lambda expressions.
 
-📚 Assignment Overview
+## 📚 Assignment Overview
 
-In this assignment, I learned how to:
+- In this assignment, I learned how to:
 
-Define and call functions in Kotlin
+- Define and call functions in Kotlin
 
-Use for and while loops effectively
+- Use for and while loops effectively
 
-Work with lambda expressions
+- Work with lambda expressions
 
-Implement recursive functions
+- Implement recursive functions
 
-Set up a Kotlin project in IntelliJ IDEA
+- Set up a Kotlin project in IntelliJ IDEA
 
-Configure Gradle with Kotlin
+- Configure Gradle with Kotlin
 
-Manage version control using Git & GitHub
+- Manage version control using Git & GitHub
 
-The assignment includes four core programming tasks plus one optional enhancement.
+- The assignment includes four core programming tasks plus one optional enhancement.
 
-🧩 Tasks Implemented
+## 🧩 Tasks Implemented
 A) Sum of Integers (1 → max)
 fun sumUpTo(max: Int): Long
 
 
-Calculates the sum of all integers from 1 to max using a loop.
+# Calculates the sum of all integers from 1 to max using a loop.
 
 B) Iterative Factorial
 fun factorialIterative(n: Int): Long
 
 
-Computes the factorial of a number using a for-loop.
+# Computes the factorial of a number using a for-loop.
 
 C) Lambda Factorial
 val factorialLambda: (Int) -> Long
 
 
-Implements factorial logic using a lambda expression.
+# Implements factorial logic using a lambda expression.
 
 D) Recursive Factorial
 fun factorialRecursive(n: Int): Long
 
 
-Computes factorial using recursion, demonstrating function self-calls.
+# Computes factorial using recursion, demonstrating function self-calls.
 
 ⭐ Optional Task: Fibonacci Function
 fun fibonacci(n: Int): Long {
@@ -55,16 +55,16 @@ fun fibonacci(n: Int): Long {
 }
 
 
-Generates the Fibonacci sequence recursively.
+## Generates the Fibonacci sequence recursively.
 
-▶️ Sample Output
+### ▶️ Sample Output
 === Kotlin Assignment 1 ===
 Sum from 1 to 10 = 55
 Iterative factorial of 5 = 120
 Lambda factorial of 6 = 720
 Recursive factorial of 7 = 5040
 
-📂 Project Structure
+## 📂 Project Structure
 KotlinAssignment1/
  ├── src/
  │   └── main/
@@ -76,7 +76,7 @@ KotlinAssignment1/
  ├── gradlew
  └── README.md
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Kotlin 2.0.21
 
@@ -88,7 +88,7 @@ Gradle Build System
 
 Git & GitHub for Version Control
 
-👤 Author
+## 👤 Author
 
 Samreen Baig
 Android Development – TriOS College
