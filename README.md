@@ -1,81 +1,69 @@
-📘 KotlinAssignment1
+📘 Kotlin Assignment 1
 
-
-This repository contains my solutions for Assignment #1, where we practiced fundamental Kotlin concepts, including functions, loops, recursion, and lambda expressions.
+This repository contains my solutions for Assignment #1, demonstrating fundamental Kotlin programming concepts such as functions, loops, recursion, and lambda expressions.
 
 📚 Assignment Overview
 
-During this week, we learned:
+In this assignment, I learned how to:
 
-How to create functions in Kotlin
+Define and call functions in Kotlin
 
-Loops (for, while)
+Use for and while loops effectively
 
-Lambda expressions
+Work with lambda expressions
 
-Recursion
+Implement recursive functions
 
-IntelliJ project setup
+Set up a Kotlin project in IntelliJ IDEA
 
-Gradle + Kotlin configuration
+Configure Gradle with Kotlin
 
-Using Git & GitHub for version control
+Manage version control using Git & GitHub
 
-This assignment includes four core tasks plus optional enhancements.
+The assignment includes four core programming tasks plus one optional enhancement.
 
-📝 Tasks Completed
-A) Sum of integers from 1 to a maximum
-
-Function:
-
+🧩 Tasks Implemented
+A) Sum of Integers (1 → max)
 fun sumUpTo(max: Int): Long
 
 
-Uses a loop to compute the sum of all integers from 1 to max.
+Calculates the sum of all integers from 1 to max using a loop.
 
-B) Iterative factorial
-
-Function:
-
+B) Iterative Factorial
 fun factorialIterative(n: Int): Long
 
 
-Computes factorial using a for-loop.
+Computes the factorial of a number using a for-loop.
 
-C) Lambda factorial
-
-Lambda:
-
+C) Lambda Factorial
 val factorialLambda: (Int) -> Long
 
 
-Implements factorial using a lambda expression.
+Implements factorial logic using a lambda expression.
 
-D) Recursive factorial
-
-Function:
-
+D) Recursive Factorial
 fun factorialRecursive(n: Int): Long
 
 
-Computes factorial using recursion.
+Computes factorial using recursion, demonstrating function self-calls.
 
-⭐ Optional Task (Included): Fibonacci Function
+⭐ Optional Task: Fibonacci Function
 fun fibonacci(n: Int): Long {
     if (n <= 0) return 0
     if (n == 1) return 1
     return fibonacci(n - 1) + fibonacci(n - 2)
 }
 
-▶️ Program Output
 
-Here is the output produced by running Main.kt:
+Generates the Fibonacci sequence recursively.
 
+▶️ Sample Output
 === Kotlin Assignment 1 ===
 Sum from 1 to 10 = 55
 Iterative factorial of 5 = 120
 Lambda factorial of 6 = 720
 Recursive factorial of 7 = 5040
+
 📂 Project Structure
 KotlinAssignment1/
  ├── src/
@@ -96,12 +84,12 @@ IntelliJ IDEA
 
 JDK 17 (Temurin)
 
-Gradle
+Gradle Build System
 
-Git & GitHub
+Git & GitHub for Version Control
 
 👤 Author
 
 Samreen Baig
-Kotlin Assignment 1 – 2025
 Android Development – TriOS College
+📅 Kotlin Assignment 1 – 2025
