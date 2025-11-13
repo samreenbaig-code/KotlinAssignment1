@@ -1,6 +1,5 @@
 📘 KotlinAssignment1
-Android Development Course – Week 1
-Instructor: Doug Jasper
+
 
 This repository contains my solutions for Assignment #1, where we practiced fundamental Kotlin concepts, including functions, loops, recursion, and lambda expressions.
 
